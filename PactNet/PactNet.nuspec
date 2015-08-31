@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>PactNet</id>
+    <id>PactNetCM</id>
     <version>$version$</version>
     <authors>seek.com.au</authors>
     <owners>seek.com.au</owners>
@@ -19,7 +19,6 @@
         <dependency id="Nancy.Hosting.Self" version="0.23.1" />
         <dependency id="Newtonsoft.Json" version="6.0.3" />
         <dependency id="System.IO.Abstractions" version="1.4.0.86" />
-        <dependency id="Microsoft.Net.Http" version="2.2.28" />
       </group>
     </dependencies>
     <frameworkAssemblies>
